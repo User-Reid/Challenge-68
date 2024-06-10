@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.counter-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.counter-date {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.x {
+  height: 50%;
+}
+
+p {
+  margin: 0;
+}
